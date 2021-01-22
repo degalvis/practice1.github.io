@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.padre{
+    display: flex;
+}
+.ctnd{
+    background-color: gray;
+    border: 1px solid greenyellow;
+    margin: 10px;
+}
+.imagenes{
+   
+    width: 400px;
+    height: 250px;
+    margin: 10px;
+    
+}
+.margenp{
+    margin-left: 10px;
+}
+
+
